@@ -22,6 +22,6 @@ To build this project there are 2 prerequisites
 4. after build is finished, a file `libmain.so` should be present inside the `libs\armeabi-xxx` directory.
 5. execute the gradle build task, take the `apk` produced from the `output` directory and install it on your android device.
 
-CHANGE THE ROM
+CHANGE THE ROM:
 Change rom with apk editor pro (no pc) tutorial: download apk https://dl.apkgoogle.org/2019/3/APK_Editor_Pro_v1.10.0_crk.apk
 ,click the apk and install after click supervision emu apk and click open and click apk editor pro and click files and after click assets and choose rom.sv and click replace after go file manager and your rom change name rom.sv and again go apk editor pro and replace your rom.sv and click build and uninstall old alien rom supervision emu and go file manager and search sdcard0 for gen_signed.apk after found click and install and finished.
